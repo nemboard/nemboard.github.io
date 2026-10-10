@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="NemBoard sound wave logo">
+  <rect x="14" y="14" width="228" height="228" rx="49" fill="#101010" stroke="#505050" stroke-width="4"/>
+  <path d="M44 109v38M65 94v68M86 70v116M107 94v50M128 98v60M149 112v50M170 70v116M191 94v68M212 109v38" fill="none" stroke="#F6F6F6" stroke-width="12" stroke-linecap="round"/>
+</svg>
